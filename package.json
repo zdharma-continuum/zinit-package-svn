@@ -45,10 +45,8 @@
     "version": "1.2.17",
     "zsh-data": {
         "plugin-info": {
-            "user": "svn",
-            "plugin": "svn",
             "version": "1.13.0",
-            "requires": "bgn;bash",
+            "requires": "monitor",
             "url": "https://subversion.apache.org/download.cgi"
 
         },
