@@ -25,6 +25,7 @@ zinit pack for subversion
 
 # Install Subversion configured to not use the APR dependency
 zinit pack=no-apr for subversion 
+```
 
 ## Default Profile
 
