@@ -20,6 +20,8 @@ Example invocations that'll install
 or from Git repository:
 
 ```zsh
+# Download and install the APR dependency of Subversion
+zinit pack for apr
 # Download, build and install the latest Subversion source tarball
 zinit pack for subversion
 ```
