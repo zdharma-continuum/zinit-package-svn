@@ -50,7 +50,7 @@
             "url": "https://subversion.apache.org/download.cgi"
 
         },
-        "zplugin-ices": {
+        "zinit-ices": {
             "default": {
                 "is-snippet": "",
                 "lucid": "",
