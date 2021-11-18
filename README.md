@@ -1,3 +1,7 @@
+# Deprecated
+
+❗ All zinit-packages have been migrated to https://github.com/zdharma-continuum/zinit-packages
+You'll find the source for this here package in https://github.com/zdharma-continuum/zinit-packages/tree/HEAD/svn
 # apache/subversion as a Zsh package
 
 ##### Homepage link: [apache/subversion](https://github.com/apache/subversion)
